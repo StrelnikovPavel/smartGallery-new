@@ -1,0 +1,19 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 161 23" width="161" height="23">
+	<title>просмотр картины</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #000000 } 
+	</style>
+	<g id="просмотр картины">
+		<g id="стрелки ">
+			<g id="влево копия 3">
+				<path id="Фигура 3 копия" class="shp0" d="M65 12L3.7 12" />
+				<path id="Фигура 1 копия" class="shp0" d="M13.75 3.8L2.7 12L13.75 20.2" />
+				<path id="Фигура 3 копия 3" class="shp0" d="M96 10L157.3 10" />
+				<path id="Фигура 1 копия 4" class="shp0" d="M147.25 18.17L158.3 10L147.25 1.83" />
+				<path id="Фигура 3 копия 3" class="shp0" d="M66 12L4.7 12" />
+				<path id="Фигура 1 копия 4" class="shp0" d="M14.75 3.8L3.7 12L14.75 20.2" />
+			</g>
+		</g>
+	</g>
+</svg>

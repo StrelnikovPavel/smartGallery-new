@@ -1,0 +1,15 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 66 20" width="66" height="20">
+	<title>карточка художника</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #000000 } 
+	</style>
+	<g id="карточка художника">
+		<g id="портфолио">
+			<g id="вправо">
+				<path id="Фигура 3" class="shp0" d="M1 10L62.3 10" />
+				<path id="Фигура 1" class="shp0" d="M52.25 18.17L63.3 10L52.25 1.83" />
+			</g>
+		</g>
+	</g>
+</svg>
